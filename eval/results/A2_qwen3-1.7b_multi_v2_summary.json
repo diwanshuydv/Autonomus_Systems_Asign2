@@ -1,0 +1,371 @@
+{
+  "tag": "A2_qwen3-1.7b_multi_v2",
+  "mode": "multi",
+  "model": "ollama_chat/qwen3:1.7b",
+  "think": "policy",
+  "temperature": 0.2,
+  "runs": 3,
+  "questions": 30,
+  "metrics": {
+    "accuracy_in_scope": 0.861,
+    "overall_accuracy": 0.889,
+    "citation_expected_source": 0.891,
+    "citation_valid": 1.0,
+    "retrieval_hit": 0.917,
+    "correct_refusal_oos": 1.0,
+    "false_refusal_in_scope": 0.111,
+    "refusals_logged": 1.0,
+    "routing_accuracy": 0.958,
+    "errors": 0,
+    "mean_latency_s": 12.37
+  },
+  "accuracy_by_category": {
+    "email": 1.0,
+    "out_of_scope": 1.0,
+    "policy": 0.897,
+    "schedule": 0.714
+  },
+  "per_question": {
+    "E01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "O01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O05": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "P01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.58,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P02": {
+      "correct_runs": 2,
+      "runs": 3,
+      "mean_answer_similarity": 0.299,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P03": {
+      "correct_runs": 0,
+      "runs": 3,
+      "mean_answer_similarity": 0.408,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.681,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P05": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.632,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.952,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P07": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P08": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P09": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.968,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P10": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.972,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P11": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.585,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P12": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.58,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P13": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.408,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "S01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.867,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.794,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S05": {
+      "correct_runs": 0,
+      "runs": 3,
+      "mean_answer_similarity": 0.174,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "S06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S07": {
+      "correct_runs": 0,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    }
+  },
+  "unstable_questions": [
+    {
+      "id": "P01",
+      "question": "What is the attendance requirement to sit in the Major exam?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.401,
+      "answers": [
+        "The attendance requirement to sit in the Major exam is 75% attendance. If a student's attendance falls below this threshold, they are still allowed to appear for the exams, but their grade is determined by their examination performance rather than attendance [Source: Circular on Amendment in Attenda",
+        "The attendance requirement for sitting in the Major exam is that students must have full attendance in each course unless they take a leave of absence for valid reasons. If attendance falls below 75%, students can still appear for the exam but must score at least a C grade to pass the course, with a",
+        "The attendance requirement for sitting in the Major exam is that students must have full attendance in each course, with a minimum of 75% attendance. If attendance falls below this threshold, students can still appear for the exam but must achieve at least a C grade to pass the course [Source: Circu"
+      ]
+    },
+    {
+      "id": "P02",
+      "question": "How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?",
+      "correct_runs": "2/3",
+      "min_answer_similarity": 0.193,
+      "answers": [
+        "The Academic Regulations (UG & PG) 2019 specifies that for B.Tech. Regular, students need to complete 10 credits in Open Electives. This is part of the total required credits for the degree. \n\n[Source: Academic Regulations (UG & PG) 2019, p. 10]",
+        "The minimum number of Open Elective credits required for a B.Tech. Degree is 10 credits, as stated in the Course Categories under the \"Open (O)\" course type for B.Tech. Regular [Source: Academic Regulations (UG & PG) 2019, p. 16].",
+        "The minimum number of Open Elective credits required for a B.Tech. Degree is 10 credits for B.Tech. Regular programs. This is specified in the table under \"Course Type: Open (O) | Course Category: Electives (OE) | B.Tech. Regular: 10\" [Source: Academic Regulations (UG & PG) 2019, p. 10]. \n\nI'm sorry"
+      ]
+    },
+    {
+      "id": "P03",
+      "question": "What is the minimum CGPA required to opt for an Independent Study course?",
+      "correct_runs": "0/3",
+      "min_answer_similarity": 0.156,
+      "answers": [
+        "The minimum CGPA requirement for an Independent Study course is not explicitly stated in the provided academic documents. However, the eligibility criteria for capability-linked opportunities (e.g., major/department specialization, minor/interdisciplinary specialization, or dual degree) require a mi",
+        "The minimum CGPA required to opt for an Independent Study course is 6.0, as specified in the Academic Regulations (UG & PG) 2019 [Source: Academic Regulations (UG & PG) 2019, p. 16]. This criterion applies to eligibility for Capability Linked Opportunities, which include Independent Study courses. \n",
+        "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic programmes, courses, rules and regulations, timetables and instructor emails. I have logged your question so that a human from the academic office can respond."
+      ]
+    },
+    {
+      "id": "P04",
+      "question": "For how many days can a student be granted short leave on medical grounds during a semester?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.557,
+      "answers": [
+        "The maximum duration for short leave on medical grounds during a semester is **10 days**, as stated in the Academic Regulations (UG & PG) 2019, p. 21. \n\n[citation: [Source: Academic Regulations (UG & PG) 2019, p. 21]]",
+        "The maximum duration for short leave on medical grounds during a semester is **10 days**, as stated in the Academic Regulations (UG & PG) 2019, p. 21. This applies to students in programs like B.Tech. or M.Tech./M.Sc. \n\n[Source: Academic Regulations (UG & PG) 2019, p. 21]",
+        "The student can be granted short leave on medical grounds for a maximum of 10 days during a semester. This information is cited from [Source: Academic Regulations (UG & PG) 2019, p. 21]."
+      ]
+    },
+    {
+      "id": "P05",
+      "question": "What happens if a student is absent for four or more weeks in a semester?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.545,
+      "answers": [
+        "If a student is absent from a course without sanctioned leave for more than two weeks, the instructor may recommend de-registration. If absent for four or more weeks (including sanctioned leave), the student will automatically withdraw from the semester. This policy is outlined in the 2024 Circular ",
+        "If a student is absent without sanctioned leave for more than two weeks, the course instructor may recommend de-registration. If absent for four or more weeks (without sanctioned leave), the student will automatically receive a semester withdrawal from all courses [Source: Circular on Amendment in A",
+        "If a student is absent without sanctioned leave for more than two weeks, the course instructor may recommend de-registration. If absent for four or more weeks (not necessarily contiguous) in a semester, the student will automatically receive a semester withdrawal from all courses [Source: Circular o"
+      ]
+    },
+    {
+      "id": "P11",
+      "question": "What happens if a student remains absent from a class without sanctioned leave for more than two weeks?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.421,
+      "answers": [
+        "If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend the student's de-registration from the course [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. Additionally, if a student is absent from all academ",
+        "If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend the student's de-registration from the course [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. Additionally, if a student is absent from all academ",
+        "If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend the de-registration of the student from the course [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. This policy overrides older regulations, as the"
+      ]
+    },
+    {
+      "id": "P12",
+      "question": "How many Programme Elective credits are required for a regular B.Tech. degree?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.341,
+      "answers": [
+        "The Programme Elective credits required for a regular B.Tech. degree are **18 credits** as specified in the table under \"Course Categories and Academic requirements\" [Source: Academic Regulations (UG & PG) 2019, p. 17]. \n\nCitation: [Source: Academic Regulations (UG & PG) 2019, p. 17]",
+        "The required number of Programme Elective credits for a regular B.Tech. degree is **18 credits**. This is specified in the table under \"Course Categories and Academic requirements\" in [Source: Academic Regulations (UG & PG) 2019, p. 17]. \n\nCitation: [Source: Academic Regulations (UG & PG) 2019, p. 1",
+        "The required Programme Elective credits for a regular B.Tech. degree are **18 credits** as stated in the academic regulations [Source: Academic Regulations (UG & PG) 2019, p. 16]. This figure is explicitly listed in the table for Programme Electives (PE) under B.Tech. Regular. \n\nNote: The 18 credits"
+      ]
+    },
+    {
+      "id": "P13",
+      "question": "To whom should a B.Tech. student address an application for leave of absence?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.196,
+      "answers": [
+        "According to the latest academic regulations, an application for leave of absence should be addressed to the Convener DUGC [Source: Academic Regulations (UG & PG) 2019, p. 20]. Additionally, the 2024 Circular on Attendance Policy confirms this requirement [Source: Circular on Amendment in Attendance",
+        "The application for a leave of absence should be addressed to the Convener DUGC. This is explicitly stated in the academic regulations [Source: Academic Regulations (UG & PG) 2019, p. 21] and confirmed in the circular on amendment in attendance policy [Source: Circular on Amendment in Attendance Pol",
+        "The application for a leave of absence should be addressed to the Convener DUGC. This is specified in the Circular on Amendment in Attendance Policy (08 July 2024), p. 1. \n\n[Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]"
+      ]
+    },
+    {
+      "id": "S05",
+      "question": "What is the L-T-P structure of the Deep Learning course?",
+      "correct_runs": "0/3",
+      "min_answer_similarity": 0.126,
+      "answers": [
+        "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic programmes, courses, rules and regulations, timetables and instructor emails. I have logged your question so that a human from the academic office can respond. [Source: Academic Regulations (UG & PG) 2019, p. 5]",
+        "The L-T-P structure for courses in the B.Tech. program typically follows the format 3-0-0 for lecture courses, 0-0-1 for lab courses, and 0-0-3 for project-based courses. These structures are outlined in Table 4.3 and Table 11.1 of the Academic Regulations (UG & PG) 2019 [Source: Academic Regulation",
+        "The L-T-P structure for a lecture course like Deep Learning is typically 3-0-0, as outlined in the academic regulations [Source: Academic Regulations (UG & PG) 2019, p. 31]. However, the exact structure for the specific course \"Deep Learning\" is not explicitly detailed in the provided documents. The"
+      ]
+    }
+  ]
+}

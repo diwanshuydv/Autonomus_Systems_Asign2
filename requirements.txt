@@ -1,0 +1,13 @@
+# Python 3.11 / 3.12 recommended (tested on 3.12)
+google-adk>=2.13
+litellm>=1.106
+mcp>=2.0            # imported by litellm's completion path
+chromadb>=1.5
+ollama>=0.6
+pypdf>=6.0
+pdfplumber>=0.11   # table extraction (rendered row by row)
+pypdfium2>=5.0      # renders scanned PDF pages for OCR
+rapidocr_onnxruntime>=1.4   # local OCR for scanned circulars / office orders
+python-docx>=1.1
+rank_bm25>=0.2
+wordninja>=2.0     # restores spaces in OCR output

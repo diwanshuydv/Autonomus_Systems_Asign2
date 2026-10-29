@@ -1,0 +1,38 @@
+Title: [IMPORTANT]: Fee Payment Window for Semester-I of Academic Year 2026-27
+Category: Fees / Registration
+Source: IIT Jodhpur institute email (registration@iitj.ac.in)
+Date: 06 Jul 2026 (reminders and extensions until 17 Jul 2026)
+Recipient: All Students (allstudents@iitj.ac.in)
+Attachments (not included): Changes in fee payment options on ERP.pdf; Late Registration Fine.pdf; GrayQuest Fee Circular.pdf; Fee Payment Process on ERP.pdf
+----------------------------------------------------------------
+
+[Message 1 — Mon 06 Jul 2026, 12:39 PM]
+
+To,
+Students (Excluding Diploma and Certificate Students),
+
+The fee payment link for Semester-I of Academic Year 2026–27 has been activated on the ERP Portal and the last date of fee payment is 12th July 2026, till 11:59 PM. Please note that the fee payment is a prerequisite to the main registration.
+
+Important Points for Fee Payment:
+1. The payment of fees directly to the institute's bank account via RTGS/NEFT has been discontinued. Instead, each student's Virtual Account Number (VAN) has been implemented on ERP. Refer to the previous email regarding the mode of payment (copy attached).
+
+2. The following are the fee payment modes:
+
+| SN | Payment Option | ERP Actions |
+|---|---|---|
+| 1 | Instant payment through ERP Portal | (1) Log in to the ERP portal to generate the fee demand and follow the attached PDF file. (2) The ERP portal is enabled with the online payment portal accepting UPI and online banking payments. (3) Students will get the fee receipt upon successful payment. (4) Students can then register on the registration date. |
+| 2 | Payment through Virtual Account Number (VAN) (especially through bank loan or offline banking facilities by the payer student or on the student's behalf) | Each student has a separate VAN for the institute fee and mess advance, which accepts payment through NEFT/RTGS/lender bank. This becomes active after generating the demand and creating a challan on the VAN option for the Institute fee and mess advance. Pay the fees separately for both VAN accounts; do not pay the total applicable fee into a single VAN account. Steps: (1) Log in to ERP to generate a fee demand. (2) Create a challan by the VAN option for both the institute fees and the mess advance; share these challans with the lender bank/financial institution if you have a loan. (3) Make payment by NEFT/RTGS based on the VAN details on the challans. (4) After successful transaction you will get the fee receipt(s) after due accounting and reconciliation by Accounts. (5) Students can then register on the registration date. |
+| 3 | Payment through GrayQuest | Option to convert semester fees into 3 to 6 monthly instalments (EMIs), with applicable charges based on the chosen EMI tenure. Parents/students may apply directly through the Student ERP Portal: (1) Log in to ERP to generate a fee demand. (2) Use the option "Fees through GrayQuest (EMI)". (3) Follow the instructions in the attached process. Queries: iitjodhpur.support@grayquest.com. Note: the financial arrangement is solely between GrayQuest and the applicants/students/parents. |
+
+3. In the cases of options 2 & 3, kindly make sure you enter the correct details in ERP, as your payment details will be reconciled by the Office of Accounts and after their verification on ERP, you will be able to proceed with the course registration (as per academic calendar). Partial fee payment (paying in two or more parts directly on ERP) is not available on the ERP.
+4. In case of non-payment of the requisite fees and advance by 12th July 2026, course registration window will not be active for the students.
+
+With Regards,
+AR (A), Office of Academic Affairs, IIT Jodhpur — Phone: 0291 280 1132
+
+[Messages 2–7 — 08 Jul to 17 Jul 2026, Registration Cell]
+- 08 Jul and 10 Jul 2026: A Polite Reminder.
+- 11 Jul 2026: Deadline for fee submission extended until 15 July 2026, 11:59 PM. No requests for fee submission or deadline extension will be entertained after the specified date and time.
+- 14 Jul 2026: Deadline extended until 18 July 2026, 05:00 PM.
+- 16 Jul 2026: A polite reminder.
+- 17 Jul 2026: Deadline extended until 20 July 2026, 05:30 PM.

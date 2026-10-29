@@ -1,0 +1,6 @@
+# Paths (relative to sources/, glob patterns) that python -m helpdesk.ingest does not index.
+README.md
+# list of links only; the linked PDFs are in official/
+web/28_official_public_document_links.md
+# regulations superseded by the 2019 UG/PG and 2022 PG regulations (kept for reference)
+archive/*

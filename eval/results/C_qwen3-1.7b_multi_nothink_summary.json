@@ -1,0 +1,271 @@
+{
+  "tag": "C_qwen3-1.7b_multi_nothink",
+  "mode": "multi",
+  "model": "ollama_chat/qwen3:1.7b",
+  "think": "none",
+  "temperature": 0.2,
+  "runs": 1,
+  "questions": 30,
+  "metrics": {
+    "accuracy_in_scope": 0.792,
+    "overall_accuracy": 0.833,
+    "citation_expected_source": 0.864,
+    "citation_valid": 1.0,
+    "retrieval_hit": 0.875,
+    "correct_refusal_oos": 1.0,
+    "false_refusal_in_scope": 0.083,
+    "refusals_logged": 1.0,
+    "routing_accuracy": 0.958,
+    "errors": 0,
+    "mean_latency_s": 8.15
+  },
+  "accuracy_by_category": {
+    "email": 1.0,
+    "out_of_scope": 1.0,
+    "policy": 0.846,
+    "schedule": 0.571
+  },
+  "per_question": {
+    "E01": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E02": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E03": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E04": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "O01": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "O02": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "O03": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "O04": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "O05": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "O06": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "None"
+      ]
+    },
+    "P01": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P02": {
+      "correct_runs": 0,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P03": {
+      "correct_runs": 0,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P04": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P05": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P06": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P07": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P08": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P09": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P10": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P11": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P12": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P13": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "S01": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S02": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S03": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S04": {
+      "correct_runs": 1,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S05": {
+      "correct_runs": 0,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "S06": {
+      "correct_runs": 0,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S07": {
+      "correct_runs": 0,
+      "runs": 1,
+      "mean_answer_similarity": null,
+      "routes": [
+        "schedule_agent"
+      ]
+    }
+  },
+  "unstable_questions": []
+}

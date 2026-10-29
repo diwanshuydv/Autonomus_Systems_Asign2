@@ -1,0 +1,24 @@
+{"timestamp": "2026-10-28T18:39:51", "question": "To whom should a B.Tech. student address an application for leave of absence?", "reason": "refused by email_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:40:45", "question": "Which open electives are being offered this semester?", "reason": "refused by schedule_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:16", "question": "What are the available dining options on the campus?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:16", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:17", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:17", "question": "Who won the IPL in 2024?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:17", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:41:23", "question": "Is the central library open on Sundays?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:44:26", "question": "To whom should a B.Tech. student address an application for leave of absence?", "reason": "refused by email_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:17", "question": "Which open electives are being offered this semester?", "reason": "refused by schedule_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:46", "question": "What are the available dining options on the campus?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:46", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:47", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:47", "question": "Who won the IPL in 2024?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:47", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:45:53", "question": "Is the central library open on Sundays?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:48:58", "question": "To whom should a B.Tech. student address an application for leave of absence?", "reason": "refused by email_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:49:51", "question": "Which open electives are being offered this semester?", "reason": "refused by schedule_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:20", "question": "What are the available dining options on the campus?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:20", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:20", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:21", "question": "Who won the IPL in 2024?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:21", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:50:27", "question": "Is the central library open on Sundays?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}

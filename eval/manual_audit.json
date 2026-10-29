@@ -1,0 +1,82 @@
+{
+  "_comment": "Manual review of every in-scope answer the keyword grader marked correct. Listed entries are keyword false positives: the answer contains the expected fact but states something wrong or contradictory. 'audited accuracy' in eval/results/summary.md applies these overrides.",
+  "overrides": [
+    {
+      "tag": "A_qwen3-1.7b_multi",
+      "run": 1,
+      "id": "P01",
+      "correct": false,
+      "note": "States the superseded 2019 rule (below 75% must score a C grade)."
+    },
+    {
+      "tag": "A_qwen3-1.7b_multi",
+      "run": 3,
+      "id": "P01",
+      "correct": false,
+      "note": "Self-contradictory: can appear below 75% but must meet 75% to be eligible."
+    },
+    {
+      "tag": "A_qwen3-1.7b_multi",
+      "run": 1,
+      "id": "S05",
+      "correct": false,
+      "note": "Misrouted to policy agent; says 'typically 3-0-0' and lists 3-0-2 only as one possible example (hallucinated)."
+    },
+    {
+      "tag": "C_qwen3-1.7b_multi_nothink",
+      "run": 1,
+      "id": "P01",
+      "correct": false,
+      "note": "States the superseded 2019 rule (below 75% must score a C grade)."
+    },
+    {
+      "tag": "C_qwen3-1.7b_multi_nothink",
+      "run": 1,
+      "id": "P11",
+      "correct": false,
+      "note": "First sentence claims automatic semester withdrawal; de-registration only appears in a copied, garbled OCR fragment."
+    },
+    {
+      "tag": "E_llama3.1-8b_multi",
+      "run": 1,
+      "id": "P03",
+      "correct": false,
+      "note": "CGPA 6.0 is right by coincidence: quotes the capability-linked-opportunity rule (100 credits by 6th semester) instead of the independent-study rule."
+    },
+    {
+      "tag": "A2_qwen3-1.7b_multi_v2",
+      "run": 2,
+      "id": "P01",
+      "correct": false,
+      "note": "States the superseded 2019 rule (below 75% must score a C grade)."
+    },
+    {
+      "tag": "A2_qwen3-1.7b_multi_v2",
+      "run": 3,
+      "id": "P01",
+      "correct": false,
+      "note": "States the superseded 2019 rule (below 75% must score a C grade)."
+    },
+    {
+      "tag": "N_qwen3-1.7b_multi_new_sources",
+      "run": 2,
+      "id": "N01",
+      "correct": false,
+      "note": "Says the Semester II start date is not specified and attributes 4 January 2027 to Semester I."
+    },
+    {
+      "tag": "N_qwen3-1.7b_multi_new_sources",
+      "run": 3,
+      "id": "N06",
+      "correct": false,
+      "note": "Answers 25 credits (the regular per-semester limit); the 8-credit summer limit is only mentioned in passing."
+    },
+    {
+      "tag": "A3_qwen3-1.7b_multi_v3_sources",
+      "run": 1,
+      "id": "P01",
+      "correct": false,
+      "note": "States the superseded 2019 rule (below 75% must score a C grade)."
+    }
+  ]
+}

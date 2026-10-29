@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-28T18:53:28", "question": "How many credits can a UG student register for in the summer term?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:54:31", "question": "At what time does the institute bus leave for the city?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T18:57:40", "question": "At what time does the institute bus leave for the city?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T19:00:42", "question": "At what time does the institute bus leave for the city?", "reason": "out of scope (router)", "status": "pending_human_review"}

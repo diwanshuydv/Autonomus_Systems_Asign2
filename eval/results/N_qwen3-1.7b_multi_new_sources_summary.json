@@ -1,0 +1,172 @@
+{
+  "tag": "N_qwen3-1.7b_multi_new_sources",
+  "mode": "multi",
+  "model": "ollama_chat/qwen3:1.7b",
+  "think": "policy",
+  "temperature": 0.2,
+  "runs": 3,
+  "questions": 12,
+  "metrics": {
+    "accuracy_in_scope": 0.939,
+    "overall_accuracy": 0.944,
+    "citation_expected_source": 0.938,
+    "citation_valid": 0.967,
+    "retrieval_hit": 1.0,
+    "correct_refusal_oos": 1.0,
+    "false_refusal_in_scope": 0.03,
+    "refusals_logged": 1.0,
+    "routing_accuracy": 1.0,
+    "errors": 0,
+    "mean_latency_s": 15.34
+  },
+  "accuracy_by_category": {
+    "calendar": 1.0,
+    "notices": 0.867,
+    "out_of_scope": 1.0,
+    "rules": 1.0
+  },
+  "per_question": {
+    "N01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.644,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.91,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.468,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.926,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N05": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.677,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N06": {
+      "correct_runs": 1,
+      "runs": 3,
+      "mean_answer_similarity": 0.409,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N07": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N08": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N09": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.74,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N10": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.913,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N11": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.859,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "N12": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    }
+  },
+  "unstable_questions": [
+    {
+      "id": "N01",
+      "question": "When do classes commence for Semester II of AY 2026-27?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.512,
+      "answers": [
+        "The classes for Semester II of AY 2026-27 commenced on 4 January 2027, Monday. [Source: Academic Calendar AY 2026-27, p. 1]",
+        "The commencement date for Semester II of AY 2026-27 is not specified in the available documents. However, the academic calendar indicates that Semester I commenced on 4 January 2027, and Semester II's commencement date is listed as \"N/A\" in the provided passages. \n\n[Source: Academic Calendar AY 2026",
+        "Classes commence for Semester II of AY 2026-27 on 4 January 2027, Monday. [Source: Academic Calendar AY 2026-27, p. 1]"
+      ]
+    },
+    {
+      "id": "N03",
+      "question": "Which day's time table will be followed on 24 September 2026?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.418,
+      "answers": [
+        "The timetable for Friday's schedule will be followed on 24 September 2026. This is confirmed by the Academic Calendar AY 2026-27, p. 2, which specifies that Friday's Time Table will be followed on 24th September 2026, Thursday. \n\n[Source: Academic Calendar AY 2026-27, p. 2]",
+        "The timetable for Friday's classes will be followed on 24 September 2026, as stated in the Academic Calendar AY 2026-27 [Source: Academic Calendar AY 2026-27, p. 2]. \n\n**Citation:** [Source: Academic Calendar AY 2026-27, p. 2]",
+        "The timetable for 24 September 2026 will follow Friday's schedule [Source: Academic Calendar AY 2026-27, p. 2]."
+      ]
+    },
+    {
+      "id": "N05",
+      "question": "What is the fine for late course registration?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.516,
+      "answers": [
+        "The fine for late course registration at IIT Jodhpur is Rs. 1500/-, as stated in the Main Registration for Semester-I, AY 2026-27 [Source: Main Registration for Semester-I, AY 2026-27, p. 1].",
+        "The fine for late course registration at IIT Jodhpur is Rs. 1500/-, as stated in the Main Registration for Semester-I, AY 2026-27 [Source: Main Registration for Semester-I, AY 2026-27, p. 1].",
+        "The fine for late course registration at IIT Jodhpur is Rs. 1500/- if a student does not register by the due date as specified in the Academic Calendar. This fine must be paid before the date of late registration to allow registration continuation. [Source: Main Registration for Semester-I, AY 2026-"
+      ]
+    },
+    {
+      "id": "N06",
+      "question": "How many credits can a UG student register for in the summer term?",
+      "correct_runs": "1/3",
+      "min_answer_similarity": 0.189,
+      "answers": [
+        "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic programmes, courses, rules and regulations, timetables and instructor emails. I have logged your question so that a human from the academic office can respond.",
+        "The maximum number of credits a UG student can register for in the summer term is **25 credits**, as stated in the Academic Regulations",
+        "The maximum number of credits a UG student can register for in the summer term is **25 credits**. However, students with 8 or fewer backlogs may register for"
+      ]
+    }
+  ]
+}

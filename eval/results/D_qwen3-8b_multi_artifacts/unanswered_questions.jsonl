@@ -1,0 +1,13 @@
+{"timestamp": "2026-10-28T10:41:11", "question": "What is the minimum CGPA required to opt for an Independent Study course?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:11", "question": "What are the available dining options on the campus?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:11", "question": "What are the available dining options on the campus?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:12", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:12", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:13", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:13", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:14", "question": "Who won the IPL in 2024?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:14", "question": "Who won the IPL in 2024?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:16", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:16", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:17", "question": "Is the central library open on Sundays?", "reason": "out of scope (router)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T11:00:17", "question": "Is the central library open on Sundays?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}

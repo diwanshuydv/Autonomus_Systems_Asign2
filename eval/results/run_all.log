@@ -1,0 +1,458 @@
+[A_qwen3-1.7b_multi run 1] P01 ok   11.08s policy_agent  "The attendance requirement for sitting in a Major exam is **75%**. If a student's attendan"
+[A_qwen3-1.7b_multi run 1] P02 ok   17.91s policy_agent  'The minimum number of Open Elective credits required for a B.Tech. Degree is 10 credits, a'
+[A_qwen3-1.7b_multi run 1] P03 BAD  36.37s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] P04 ok   15.59s policy_agent  'The student can be granted short leave on medical grounds for a maximum of 10 days during '
+[A_qwen3-1.7b_multi run 1] P05 ok    18.5s policy_agent  'If a student is absent for four or more weeks in a semester, they will automatically recei'
+[A_qwen3-1.7b_multi run 1] P06 ok   10.49s policy_agent  'The maximum duration for completing a B.Tech. programme is 14 registered semesters. This i'
+[A_qwen3-1.7b_multi run 1] P07 ok   11.94s policy_agent  'The B- grade carries 7 grade points according to the 10-point scale outlined in the Academ'
+[A_qwen3-1.7b_multi run 1] P08 ok   11.45s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. This informatio'
+[A_qwen3-1.7b_multi run 1] P09 ok   18.14s policy_agent  'The GEN category B.Tech. student must earn a minimum of 18 credits by the end of the secon'
+[A_qwen3-1.7b_multi run 1] P10 ok   16.19s policy_agent  "An 'I' grade is awarded to a student on their request to denote incomplete performance in "
+[A_qwen3-1.7b_multi run 1] P11 BAD  14.45s policy_agent  'According to the Circular on Amendment in Attendance Policy (08 July 2024), if a student r'
+[A_qwen3-1.7b_multi run 1] P12 BAD  26.76s policy_agent  'The required Programme Elective credits for a regular B.Tech. degree are not explicitly sp'
+[A_qwen3-1.7b_multi run 1] P13 ok   23.03s policy_agent  'The application for leave of absence should be addressed to the Convener DUGC [Source: Aca'
+[A_qwen3-1.7b_multi run 1] S01 ok    7.31s schedule_agent  'The course "Autonomous Systems" is scheduled in slot **C**. The slot timings are:\n- Monday'
+[A_qwen3-1.7b_multi run 1] S02 ok    8.66s schedule_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[A_qwen3-1.7b_multi run 1] S03 ok    8.02s schedule_agent  'CSL7620 Machine Learning is taught by Dr. Kavya Rao. The slot is B, and the slot timings a'
+[A_qwen3-1.7b_multi run 1] S04 ok    5.59s schedule_agent  'The classes for slot H are held on Monday at 15:00-16:25 (Lecture) and Thursday at 15:00-1'
+[A_qwen3-1.7b_multi run 1] S05 ok   32.86s policy_agent  'The L-T-P structure for a Deep Learning course is typically **3-0-0** (Lecture hours: 3, T'
+[A_qwen3-1.7b_multi run 1] S06 BAD   4.97s schedule_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). \n\nCitation:'
+[A_qwen3-1.7b_multi run 1] S07 BAD    4.2s schedule_agent  "I'm sorry, I cannot answer that question. I can only help with IIT Jodhpur academic progra"
+[A_qwen3-1.7b_multi run 1] E01 ok    8.76s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[A_qwen3-1.7b_multi run 1] E02 ok    4.12s email_agent  'The email ID of the instructor of Natural Language Understanding is **nikhil.joshi@dummy.i'
+[A_qwen3-1.7b_multi run 1] E03 ok    6.95s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[A_qwen3-1.7b_multi run 1] E04 ok   10.62s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: pooja.saxena@dummy.iit'
+[A_qwen3-1.7b_multi run 1] O01 ok    1.79s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] O02 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] O03 ok    0.31s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] O04 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] O05 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 1] O06 ok    0.31s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] P01 ok   14.67s policy_agent  'The attendance requirement to sit in the Major exam is at least 75% for the course, as sta'
+[A_qwen3-1.7b_multi run 2] P02 ok    19.2s policy_agent  'The minimum number of Open Elective credits required for a B.Tech. Degree is 10 credits un'
+[A_qwen3-1.7b_multi run 2] P03 BAD  17.55s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] P04 ok   14.64s policy_agent  'The student can be granted short leave on medical grounds for a maximum of 10 days during '
+[A_qwen3-1.7b_multi run 2] P05 ok   17.83s policy_agent  'If a student is absent for four or more weeks in a semester, they will automatically recei'
+[A_qwen3-1.7b_multi run 2] P06 ok   10.69s policy_agent  'The maximum duration for completing a B.Tech. program is 14 registered semesters. This is '
+[A_qwen3-1.7b_multi run 2] P07 ok   12.28s policy_agent  'The B- grade carries 7 grade points according to the 10-point scale outlined in the Academ'
+[A_qwen3-1.7b_multi run 2] P08 ok   11.66s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. This informatio'
+[A_qwen3-1.7b_multi run 2] P09 ok   18.54s policy_agent  'The GEN category B.Tech. student must earn a minimum of 18 credits by the end of the secon'
+[A_qwen3-1.7b_multi run 2] P10 ok   15.47s policy_agent  "An 'I' grade is awarded to a student on their request to denote incomplete performance in "
+[A_qwen3-1.7b_multi run 2] P11 BAD  15.37s policy_agent  'If a student remains absent from a class without sanctioned leave for more than two weeks,'
+[A_qwen3-1.7b_multi run 2] P12 BAD  29.07s policy_agent  'The academic regulations do not explicitly specify the exact number of Programme Elective '
+[A_qwen3-1.7b_multi run 2] P13 BAD  26.97s policy_agent  'The application for leave of absence should be addressed to the Convener DRC, as specified'
+[A_qwen3-1.7b_multi run 2] S01 ok    7.79s schedule_agent  'The course "Autonomous Systems" is scheduled in slot **C**. The slot timings are:\n- Monday'
+[A_qwen3-1.7b_multi run 2] S02 ok    9.44s schedule_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[A_qwen3-1.7b_multi run 2] S03 ok    8.16s schedule_agent  'CSL7620 Machine Learning is taught by Dr. Kavya Rao. The slot is B, and the slot timings a'
+[A_qwen3-1.7b_multi run 2] S04 ok    6.83s schedule_agent  'The classes for slot H are held on Monday at 15:00-16:25 (Lecture) and Thursday at 15:00-1'
+[A_qwen3-1.7b_multi run 2] S05 BAD  30.64s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] S06 BAD   7.03s schedule_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). \n\nCitation:'
+[A_qwen3-1.7b_multi run 2] S07 BAD   4.15s schedule_agent  "I'm sorry, I cannot answer that question. I can only help with IIT Jodhpur academic progra"
+[A_qwen3-1.7b_multi run 2] E01 ok    9.63s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[A_qwen3-1.7b_multi run 2] E02 ok    4.04s email_agent  'The email ID of the instructor of Natural Language Understanding is **nikhil.joshi@dummy.i'
+[A_qwen3-1.7b_multi run 2] E03 ok    7.57s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[A_qwen3-1.7b_multi run 2] E04 ok   11.37s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: pooja.saxena@dummy.iit'
+[A_qwen3-1.7b_multi run 2] O01 ok     1.5s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] O02 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] O03 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] O04 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] O05 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 2] O06 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] P01 ok   15.85s policy_agent  "The attendance requirement for sitting in a Major exam is 75% attendance. If a student's a"
+[A_qwen3-1.7b_multi run 3] P02 ok   21.78s policy_agent  'The minimum number of Open Elective credits required for a B.Tech. Degree is 10 credits [S'
+[A_qwen3-1.7b_multi run 3] P03 BAD  31.74s policy_agent  'The minimum CGPA requirement for an Independent Study course is not explicitly stated in t'
+[A_qwen3-1.7b_multi run 3] P04 ok   18.88s policy_agent  'The maximum duration for short leave on medical grounds during a semester is **10 days**, '
+[A_qwen3-1.7b_multi run 3] P05 ok   17.22s policy_agent  'If a student is absent for four or more weeks in a semester without authorized leave, thei'
+[A_qwen3-1.7b_multi run 3] P06 ok   11.46s policy_agent  'The maximum duration for completing a B.Tech. program is 14 registered semesters. This is '
+[A_qwen3-1.7b_multi run 3] P07 ok   12.88s policy_agent  'The B- grade carries 7 grade points according to the academic regulations [Source: Academi'
+[A_qwen3-1.7b_multi run 3] P08 ok    12.9s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. [Source: Academ'
+[A_qwen3-1.7b_multi run 3] P09 ok   21.81s policy_agent  'The GEN category B.Tech. student must earn a minimum of 18 credits by the end of the secon'
+[A_qwen3-1.7b_multi run 3] P10 ok   18.43s policy_agent  "An 'I' grade is awarded to a student on their request to denote incomplete performance in "
+[A_qwen3-1.7b_multi run 3] P11 BAD  16.66s policy_agent  'If a student remains absent from a class without sanctioned leave for four or more weeks ('
+[A_qwen3-1.7b_multi run 3] P12 ok   28.29s policy_agent  'The Programme Elective credits required for a regular B.Tech. degree are **18 credits**. T'
+[A_qwen3-1.7b_multi run 3] P13 ok    12.7s policy_agent  'The application for a leave of absence should be addressed to the Convener DUGC. [Source: '
+[A_qwen3-1.7b_multi run 3] S01 ok     8.5s schedule_agent  'The course "Autonomous Systems" is scheduled in slot **C**. The slot timings are:\n- Monday'
+[A_qwen3-1.7b_multi run 3] S02 ok   10.57s schedule_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[A_qwen3-1.7b_multi run 3] S03 ok    9.03s schedule_agent  'CSL7620 Machine Learning is taught by Dr. Kavya Rao. The slot is B, and the slot timings a'
+[A_qwen3-1.7b_multi run 3] S04 ok    7.21s schedule_agent  'The classes for slot H are held on Monday at 15:00-16:25 (Lecture) and Thursday at 15:00-1'
+[A_qwen3-1.7b_multi run 3] S05 BAD  27.13s policy_agent  'The L-T-P structure for courses in the Deep Learning subject is typically represented as 1'
+[A_qwen3-1.7b_multi run 3] S06 BAD   7.36s schedule_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). \n\nCitation:'
+[A_qwen3-1.7b_multi run 3] S07 BAD   4.44s schedule_agent  "I'm sorry, I cannot answer that question. I can only help with IIT Jodhpur academic progra"
+[A_qwen3-1.7b_multi run 3] E01 ok   11.22s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[A_qwen3-1.7b_multi run 3] E02 ok    4.53s email_agent  'The email ID of the instructor of Natural Language Understanding is **nikhil.joshi@dummy.i'
+[A_qwen3-1.7b_multi run 3] E03 ok    7.97s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[A_qwen3-1.7b_multi run 3] E04 ok   12.56s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: pooja.saxena@dummy.iit'
+[A_qwen3-1.7b_multi run 3] O01 ok    1.38s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] O02 ok    0.34s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] O03 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] O04 ok    0.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] O05 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[A_qwen3-1.7b_multi run 3] O06 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.764,
+  "overall_accuracy": 0.811,
+  "citation_expected_source": 0.875,
+  "citation_valid": 1.0,
+  "retrieval_hit": 0.875,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.111,
+  "refusals_logged": 1.0,
+  "routing_accuracy": 0.958,
+  "errors": 0,
+  "mean_latency_s": 11.39
+}
+accuracy by category: {'email': 1.0, 'out_of_scope': 1.0, 'policy': 0.769, 'schedule': 0.619}
+[B_qwen3-1.7b_single run 1] P01 BAD   3.71s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P02 BAD   4.71s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P03 BAD   2.59s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P04 BAD   3.97s helpdesk_single_agent  'The question is about the maximum number of days a student can be granted short leave on m'
+[B_qwen3-1.7b_single run 1] P05 BAD   2.98s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P06 BAD   2.83s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P07 BAD   3.84s helpdesk_single_agent  'The question is out of scope because it pertains to academic grading scale details, which '
+[B_qwen3-1.7b_single run 1] P08 BAD   3.36s helpdesk_single_agent  'The duration of the Major examination of a regular course is not explicitly mentioned in t'
+[B_qwen3-1.7b_single run 1] P09 BAD    9.6s helpdesk_single_agent  'The academic regulations state that a GEN category B.Tech. student must earn a minimum of '
+[B_qwen3-1.7b_single run 1] P10 BAD   2.94s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] P11 BAD    4.0s helpdesk_single_agent  'The question is out of scope because it pertains to academic policies and procedures that '
+[B_qwen3-1.7b_single run 1] P12 BAD  11.17s helpdesk_single_agent  'The Academic Regulations (UG & PG) 2019 specifies that for a regular B.Tech. degree, the m'
+[B_qwen3-1.7b_single run 1] P13 BAD   1.44s helpdesk_single_agent  'The application for leave of absence should be addressed to the Dean of the respective col'
+[B_qwen3-1.7b_single run 1] S01 BAD   4.71s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] S02 ok    7.34s helpdesk_single_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[B_qwen3-1.7b_single run 1] S03 BAD   7.16s helpdesk_single_agent  'Dr. Kavya Rao teaches CSL7620 Machine Learning this semester. She can be contacted at kavy'
+[B_qwen3-1.7b_single run 1] S04 ok    2.72s helpdesk_single_agent  'The classes for slot H are held on Monday at 15:00-16:25 and Thursday at 15:00-16:25 [Sour'
+[B_qwen3-1.7b_single run 1] S05 BAD   6.24s helpdesk_single_agent  'The L-T-P structure of the "Autonomous Systems" course is 3-0-0, where:\n- **3** is the num'
+[B_qwen3-1.7b_single run 1] S06 BAD   2.89s helpdesk_single_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). [Source: Sl'
+[B_qwen3-1.7b_single run 1] S07 BAD   4.33s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] E01 ok   12.37s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 1] E02 BAD    4.0s helpdesk_single_agent  'The email ID of the instructor of Natural Language Understanding is arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 1] E03 ok   12.84s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[B_qwen3-1.7b_single run 1] E04 BAD  13.25s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 1] O01 ok    3.65s helpdesk_single_agent  'The question is out of scope as it pertains to campus facilities rather than academic prog'
+[B_qwen3-1.7b_single run 1] O02 ok     4.1s helpdesk_single_agent  'The question is out of scope as it pertains to campus transportation and facilities, which'
+[B_qwen3-1.7b_single run 1] O03 ok    2.79s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] O04 ok    2.74s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] O05 ok    2.63s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 1] O06 ok    2.72s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P01 BAD   4.09s helpdesk_single_agent  'The attendance requirement to sit in the Major exam is not explicitly stated in the provid'
+[B_qwen3-1.7b_single run 2] P02 BAD   4.78s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P03 BAD   2.39s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P04 BAD   5.16s helpdesk_single_agent  'The question is about the maximum number of days a student can be granted short leave on m'
+[B_qwen3-1.7b_single run 2] P05 BAD   2.66s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P06 BAD   2.65s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P07 BAD   3.68s helpdesk_single_agent  'The question is out of scope because it pertains to academic grading scale details, which '
+[B_qwen3-1.7b_single run 2] P08 BAD   3.28s helpdesk_single_agent  'The duration of the Major examination of a regular course is not explicitly specified in t'
+[B_qwen3-1.7b_single run 2] P09 BAD   9.71s helpdesk_single_agent  'The minimum number of credits a GEN category B.Tech. student must earn by the end of the s'
+[B_qwen3-1.7b_single run 2] P10 BAD   2.91s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] P11 BAD   3.71s helpdesk_single_agent  'The question is out of scope because it pertains to university policy and procedures regar'
+[B_qwen3-1.7b_single run 2] P12 BAD  10.88s helpdesk_single_agent  'The Academic Regulations (UG & PG) 2019 specifies that for a regular B.Tech. degree, the m'
+[B_qwen3-1.7b_single run 2] P13 BAD   1.65s helpdesk_single_agent  'The application for leave of absence should be addressed to the Dean of the respective col'
+[B_qwen3-1.7b_single run 2] S01 BAD   4.66s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] S02 ok    7.73s helpdesk_single_agent  'There are 4 400 level HSS electives offered by the Humanities department in this semester.'
+[B_qwen3-1.7b_single run 2] S03 ok    5.25s helpdesk_single_agent  'Dr. Kavya Rao teaches CSL7620 Machine Learning this semester. She can be contacted at kavy'
+[B_qwen3-1.7b_single run 2] S04 ok    3.16s helpdesk_single_agent  'The classes for slot H are held on Monday at 15:00-16:25 and Thursday at 15:00-16:25 [Sour'
+[B_qwen3-1.7b_single run 2] S05 BAD   6.23s helpdesk_single_agent  'The L-T-P structure of the "Autonomous Systems" course is 3-0-0, where:\n- **3** is the num'
+[B_qwen3-1.7b_single run 2] S06 BAD   3.08s helpdesk_single_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). [Source: Sl'
+[B_qwen3-1.7b_single run 2] S07 BAD   4.31s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] E01 ok   15.32s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 2] E02 BAD   3.97s helpdesk_single_agent  'The email ID of the instructor of Natural Language Understanding is arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 2] E03 ok   14.47s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[B_qwen3-1.7b_single run 2] E04 BAD  13.19s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 2] O01 ok     2.4s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] O02 ok     4.0s helpdesk_single_agent  'The question is out of scope as it pertains to campus transportation and facilities, which'
+[B_qwen3-1.7b_single run 2] O03 ok    2.21s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] O04 ok    2.74s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] O05 ok    2.82s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 2] O06 ok     2.8s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P01 BAD   2.54s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P02 BAD   5.24s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P03 BAD   2.56s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P04 BAD   4.89s helpdesk_single_agent  'The question is about the maximum number of days a student can be granted short leave on m'
+[B_qwen3-1.7b_single run 3] P05 BAD   2.93s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P06 BAD   2.73s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P07 BAD   3.66s helpdesk_single_agent  'The question is out of scope because it pertains to grading scale details, which are not c'
+[B_qwen3-1.7b_single run 3] P08 BAD   3.29s helpdesk_single_agent  'The duration of the Major examination of a regular course is not explicitly specified in t'
+[B_qwen3-1.7b_single run 3] P09 BAD   9.82s helpdesk_single_agent  'The minimum number of credits a GEN category B.Tech. student must earn by the end of the s'
+[B_qwen3-1.7b_single run 3] P10 BAD   2.86s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] P11 BAD    4.3s helpdesk_single_agent  'The question is out of scope because it pertains to university policy and procedures that '
+[B_qwen3-1.7b_single run 3] P12 BAD  10.59s helpdesk_single_agent  'The Academic Regulations (UG & PG) 2019 specifies that for a regular B.Tech. degree, the m'
+[B_qwen3-1.7b_single run 3] P13 BAD   1.75s helpdesk_single_agent  'The application for leave of absence should be addressed to the Dean of the respective col'
+[B_qwen3-1.7b_single run 3] S01 BAD   4.69s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] S02 ok    7.67s helpdesk_single_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[B_qwen3-1.7b_single run 3] S03 BAD   7.54s helpdesk_single_agent  'Dr. Kavya Rao teaches CSL7620 Machine Learning this semester. She can be reached at kavya.'
+[B_qwen3-1.7b_single run 3] S04 ok    2.82s helpdesk_single_agent  'The classes for slot H are held on Monday at 15:00-16:25 and Thursday at 15:00-16:25 [Sour'
+[B_qwen3-1.7b_single run 3] S05 BAD   6.66s helpdesk_single_agent  'The L-T-P structure of the "Autonomous Systems" course is 3-0-0, where:\n- **3** is the num'
+[B_qwen3-1.7b_single run 3] S06 BAD   2.85s helpdesk_single_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). [Source: Sl'
+[B_qwen3-1.7b_single run 3] S07 BAD   4.84s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] E01 ok   15.61s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 3] E02 BAD    4.0s helpdesk_single_agent  'The email ID of the instructor of Natural Language Understanding is arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 3] E03 ok    14.3s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[B_qwen3-1.7b_single run 3] E04 BAD  13.37s helpdesk_single_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[B_qwen3-1.7b_single run 3] O01 ok     2.4s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] O02 ok     4.2s helpdesk_single_agent  'The question is out of scope as it pertains to campus transportation and facilities, which'
+[B_qwen3-1.7b_single run 3] O03 ok    2.89s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] O04 ok    2.87s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] O05 ok    2.77s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[B_qwen3-1.7b_single run 3] O06 ok    2.89s helpdesk_single_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.181,
+  "overall_accuracy": 0.344,
+  "citation_expected_source": 0.679,
+  "citation_valid": 0.39,
+  "retrieval_hit": 0.458,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.611,
+  "refusals_logged": 1.0,
+  "routing_accuracy": null,
+  "errors": 0,
+  "mean_latency_s": 5.21
+}
+accuracy by category: {'email': 0.5, 'out_of_scope': 1.0, 'policy': 0.0, 'schedule': 0.333}
+[C_qwen3-1.7b_multi_nothink run 1] P01 ok    6.68s policy_agent  'The attendance requirement to sit in the Major exam has been amended. According to the Cir'
+[C_qwen3-1.7b_multi_nothink run 1] P02 BAD   9.56s policy_agent  'To earn a B.Tech. Degree, students are required to complete a total of 120 credits, with 8'
+[C_qwen3-1.7b_multi_nothink run 1] P03 BAD   9.95s policy_agent  'The minimum CGPA required to opt for an Independent Study course is not explicitly stated '
+[C_qwen3-1.7b_multi_nothink run 1] P04 ok    7.29s policy_agent  'A student can be granted short leave on medical grounds during a semester for a maximum of'
+[C_qwen3-1.7b_multi_nothink run 1] P05 ok   13.39s policy_agent  'If a student is absent from all academic activities for four or more weeks in a semester, '
+[C_qwen3-1.7b_multi_nothink run 1] P06 ok    7.16s policy_agent  'The maximum duration allowed for completing a B.Tech. programme is 14 registered semesters'
+[C_qwen3-1.7b_multi_nothink run 1] P07 ok    10.1s policy_agent  'A B- grade carries 7 grade points according to the Academic Regulations (UG & PG) 2019 [So'
+[C_qwen3-1.7b_multi_nothink run 1] P08 ok    9.82s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. This informatio'
+[C_qwen3-1.7b_multi_nothink run 1] P09 ok   11.84s policy_agent  'A GEN category B.Tech. student must earn a minimum of 18 credits by the end of the second '
+[C_qwen3-1.7b_multi_nothink run 1] P10 ok   13.76s policy_agent  "An 'I' grade is awarded to a student on their request to denote incomplete performance in "
+[C_qwen3-1.7b_multi_nothink run 1] P11 ok   15.13s policy_agent  'If a student remains absent from a class without sanctioned leave for more than two weeks,'
+[C_qwen3-1.7b_multi_nothink run 1] P12 ok    8.44s policy_agent  'The required number of Programme Elective credits for a regular B.Tech. degree is 18 credi'
+[C_qwen3-1.7b_multi_nothink run 1] P13 ok   10.32s policy_agent  'An application for leave of absence should be addressed to the Convener DUGC [Source: Acad'
+[C_qwen3-1.7b_multi_nothink run 1] S01 ok   10.88s schedule_agent  'The course "Autonomous Systems" is scheduled in slot **C**. The slot timings are:\n- Monday'
+[C_qwen3-1.7b_multi_nothink run 1] S02 ok   12.83s schedule_agent  'There are 4 400 level electives offered by the Humanities department in this semester. The'
+[C_qwen3-1.7b_multi_nothink run 1] S03 ok   11.21s schedule_agent  'CSL7620 Machine Learning is taught by Dr. Kavya Rao. The slot is B, and the lab slot is no'
+[C_qwen3-1.7b_multi_nothink run 1] S04 ok    7.93s schedule_agent  'The classes for slot H are held on Monday at 15:00-16:25 (Lecture) and Thursday at 15:00-1'
+[C_qwen3-1.7b_multi_nothink run 1] S05 BAD  11.98s policy_agent  'The L-T-P structure for a course refers to the distribution of lecture, tutorial, and prac'
+[C_qwen3-1.7b_multi_nothink run 1] S06 BAD   8.15s schedule_agent  'The lab slot for CSL2010 is L2, and the timings are Tuesday 14:00-16:55 (Lab). \n\nCitation:'
+[C_qwen3-1.7b_multi_nothink run 1] S07 BAD   4.92s schedule_agent  "I'm sorry, I cannot answer that question. I can only help with IIT Jodhpur academic progra"
+[C_qwen3-1.7b_multi_nothink run 1] E01 ok   12.11s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[C_qwen3-1.7b_multi_nothink run 1] E02 ok    4.97s email_agent  'The email ID of the instructor of Natural Language Understanding is **nikhil.joshi@dummy.i'
+[C_qwen3-1.7b_multi_nothink run 1] E03 ok    8.77s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[C_qwen3-1.7b_multi_nothink run 1] E04 ok    14.1s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: pooja.saxena@dummy.iit'
+[C_qwen3-1.7b_multi_nothink run 1] O01 ok    1.56s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[C_qwen3-1.7b_multi_nothink run 1] O02 ok    0.34s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[C_qwen3-1.7b_multi_nothink run 1] O03 ok    0.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[C_qwen3-1.7b_multi_nothink run 1] O04 ok    0.35s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[C_qwen3-1.7b_multi_nothink run 1] O05 ok    0.35s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[C_qwen3-1.7b_multi_nothink run 1] O06 ok    0.35s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.792,
+  "overall_accuracy": 0.833,
+  "citation_expected_source": 0.864,
+  "citation_valid": 1.0,
+  "retrieval_hit": 0.875,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.083,
+  "refusals_logged": 1.0,
+  "routing_accuracy": 0.958,
+  "errors": 0,
+  "mean_latency_s": 8.15
+}
+accuracy by category: {'email': 1.0, 'out_of_scope': 1.0, 'policy': 0.846, 'schedule': 0.571}
+[D_qwen3-8b_multi run 1] P01 ok  171.67s policy_agent  "The attendance requirement to sit in the Major exam is that a student's attendance should "
+[D_qwen3-8b_multi run 1] P02 ok  165.58s policy_agent  'The B.Tech. Regular program requires 10 credits in Open Electives (OE) as part of the curr'
+[D_qwen3-8b_multi run 1] P03 BAD  81.77s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] P04 ok   92.18s policy_agent  'A student may be granted leave of absence during the semester for a maximum of 10 days on '
+[D_qwen3-8b_multi run 1] P05 ok   67.73s policy_agent  'If a student is absent for four or more weeks (not necessarily contiguous) in a semester, '
+[D_qwen3-8b_multi run 1] P06 ok   54.56s policy_agent  'The maximum duration allowed for completing a B.Tech. programme is 14 registered semesters'
+[D_qwen3-8b_multi run 1] P07 ok   56.97s policy_agent  'A B- grade carries 7 grade points. [Source: Academic Regulations (UG & PG) 2019, p. 8]'
+[D_qwen3-8b_multi run 1] P08 ok   61.24s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. [Source: Academ'
+[D_qwen3-8b_multi run 1] P09 ok   77.19s policy_agent  'A GEN category B.Tech. student must earn a minimum of 18 credits by the end of the second '
+[D_qwen3-8b_multi run 1] P10 ok   78.92s policy_agent  'An ‘I’ grade is temporarily awarded to a student on their request to denote incomplete per'
+[D_qwen3-8b_multi run 1] P11 BAD  85.47s policy_agent  'If a student is absent from all academic activities for four or more weeks (not necessaril'
+[D_qwen3-8b_multi run 1] P12 ok   70.47s policy_agent  'The Programme Elective (PE) credits required for a regular B.Tech. degree are 18. [Source:'
+[D_qwen3-8b_multi run 1] P13 ok   69.49s policy_agent  'A B.Tech. student should address the application for leave of absence to the **Convener DU'
+[D_qwen3-8b_multi run 1] S01 ok   27.33s schedule_agent  'The slot for the course "Autonomous Systems" is **C**. \n\nCitation: [Source: Course Timetab'
+[D_qwen3-8b_multi run 1] S02 ok   46.79s schedule_agent  'The Humanities department has floated 4 elective courses at the 400 level this semester. T'
+[D_qwen3-8b_multi run 1] S03 ok   29.98s schedule_agent  'The course "CSL7620 Machine Learning" is taught by Dr. Kavya Rao. This information is sour'
+[D_qwen3-8b_multi run 1] S04 ok   27.86s schedule_agent  'The classes for slot H are held on Monday and Thursday from 15:00 to 16:25. \n\nCitation: [S'
+[D_qwen3-8b_multi run 1] S05 ok   35.19s schedule_agent  'The L-T-P structure of the Deep Learning course is 3-0-2. This means it has 3 lecture hour'
+[D_qwen3-8b_multi run 1] S06 ok   35.39s schedule_agent  'The lab slot for CSL2010 is L1. The lab timings are Monday 14:00-16:55. \n\nCitation: [Sourc'
+[D_qwen3-8b_multi run 1] S07 ok   35.74s schedule_agent  'This semester, two open electives are being offered:\n\n1. **MAL4010 Optimization Methods** '
+[D_qwen3-8b_multi run 1] E01 ok   66.34s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[D_qwen3-8b_multi run 1] E02 ok   26.14s email_agent  'The email ID of the instructor for the course "Natural Language Understanding" (course cod'
+[D_qwen3-8b_multi run 1] E03 ok   56.56s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[D_qwen3-8b_multi run 1] E04 ok   32.97s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: pooja.saxena@dummy.iit'
+[D_qwen3-8b_multi run 1] O01 ok    5.39s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] O02 ok    0.86s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] O03 ok    1.66s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] O04 ok    1.16s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] O05 ok     1.2s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[D_qwen3-8b_multi run 1] O06 ok    1.19s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.917,
+  "overall_accuracy": 0.933,
+  "citation_expected_source": 0.913,
+  "citation_valid": 1.0,
+  "retrieval_hit": 1.0,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.042,
+  "refusals_logged": 1.0,
+  "routing_accuracy": 1.0,
+  "errors": 0,
+  "mean_latency_s": 52.17
+}
+accuracy by category: {'email': 1.0, 'out_of_scope': 1.0, 'policy': 0.846, 'schedule': 1.0}
+[E_llama3.1-8b_multi run 1] P01 ok   36.91s policy_agent  'According to the revised attendance policy, a student is expected to have full attendance '
+[E_llama3.1-8b_multi run 1] P02 ok   33.28s policy_agent  'To get a B.Tech. Degree, you need to earn 10 Open Elective credits. [Source: Academic Regu'
+[E_llama3.1-8b_multi run 1] P03 ok   37.32s policy_agent  'To opt for an Independent Study course, a student should have earned a minimum of 100 cred'
+[E_llama3.1-8b_multi run 1] P04 ok   30.88s policy_agent  'A student can be granted short leave on medical grounds for a maximum of 10 days during a '
+[E_llama3.1-8b_multi run 1] P05 ok   28.15s policy_agent  'If a student is absent for four or more weeks in a semester, their registration will resul'
+[E_llama3.1-8b_multi run 1] P06 ok   28.71s policy_agent  'The maximum duration for the completion of a B.Tech. programme is 14 registered semesters.'
+[E_llama3.1-8b_multi run 1] P07 ok   35.34s policy_agent  'A B- grade carries 7 grade points.\n\n[Source: Academic Regulations (UG & PG) 2019, p. 8]'
+[E_llama3.1-8b_multi run 1] P08 ok   35.47s policy_agent  'The duration of the Major examination of a regular course is 120 minutes. [Source: Academi'
+[E_llama3.1-8b_multi run 1] P09 ok  926.59s policy_agent  'A GEN category B.Tech. student must earn a minimum of 18 credits by the end of the second '
+[E_llama3.1-8b_multi run 1] P10 ok  920.92s policy_agent  "An 'I' grade is temporarily awarded to a student on his/her request to denote incomplete p"
+[E_llama3.1-8b_multi run 1] P11 ok  198.89s policy_agent  'If a student remains absent from a class without sanctioned leave for more than two weeks,'
+[E_llama3.1-8b_multi run 1] P12 ok  451.26s policy_agent  'According to the Academic Regulations (UG & PG) 2019, p. 17, Programme Elective credits re'
+[E_llama3.1-8b_multi run 1] P13 BAD  913.7s email_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] S01 ok   11.33s schedule_agent  'The slot for the course Autonomous Systems is C.'
+[E_llama3.1-8b_multi run 1] S02 ok   17.76s schedule_agent  'There are 4 400 level electives floated by the Humanities department in this semester. The'
+[E_llama3.1-8b_multi run 1] S03 ok   20.59s schedule_agent  'The instructor for CSL7620 Machine Learning this semester is Dr. Kavya Rao. \nCitation: [So'
+[E_llama3.1-8b_multi run 1] S04 ok  913.68s schedule_agent  'The classes of slot H are held on Monday and Thursday, from 15:00 to 16:25.'
+[E_llama3.1-8b_multi run 1] S05 ok  910.37s schedule_agent  'The L-T-P structure of the Deep Learning course is 3-0-2.'
+[E_llama3.1-8b_multi run 1] S06 ok   15.59s schedule_agent  'CSL2010 has lab slot L1, which is on Monday from 14:00-16:55. \nCitation: [Source: Course T'
+[E_llama3.1-8b_multi run 1] S07 ok  408.13s schedule_agent  'Two open electives are being offered this semester: MAL4010 Optimization Methods (slot J) '
+[E_llama3.1-8b_multi run 1] E01 ok  631.85s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: arjun.mehta@dummy.iitj'
+[E_llama3.1-8b_multi run 1] E02 ok   18.72s email_agent  "The instructor's email ID for the course Natural Language Understanding is nikhil.joshi@du"
+[E_llama3.1-8b_multi run 1] E03 ok   17.84s email_agent  'Here is a draft email for you to review. It has NOT been sent.\n\nTo: rahul.bansal@dummy.iit'
+[E_llama3.1-8b_multi run 1] E04 BAD 783.03s policy_agent  "Subject: Request for Sick Leave for 3 days\n\nDear Professor [Instructor's Name],\n\nI am writ"
+[E_llama3.1-8b_multi run 1] O01 ok     2.5s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] O02 ok    0.62s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] O03 ok    0.62s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] O04 ok    0.65s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] O05 ok    0.64s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[E_llama3.1-8b_multi run 1] O06 ok    0.63s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.917,
+  "overall_accuracy": 0.933,
+  "citation_expected_source": 0.783,
+  "citation_valid": 1.0,
+  "retrieval_hit": 0.917,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.042,
+  "refusals_logged": 1.0,
+  "routing_accuracy": 0.917,
+  "errors": 0,
+  "mean_latency_s": 247.73
+}
+accuracy by category: {'email': 0.75, 'out_of_scope': 1.0, 'policy': 0.923, 'schedule': 1.0}
+[F_qwen3-8b_multi-transfer run 1] P01 ok  1903.11s policy_agent  "The attendance requirement to sit in the Major exam is that a student's attendance should "
+[F_qwen3-8b_multi-transfer run 1] P02 BAD  94.01s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] P03 BAD  55.07s policy_agent  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] P04 ok   47.91s policy_agent  'A student can be granted short leave on medical grounds for a maximum of 10 days during a '
+[F_qwen3-8b_multi-transfer run 1] P05 ok   39.34s policy_agent  'If a student is absent for four or more weeks in a semester, their registration will resul'
+[F_qwen3-8b_multi-transfer run 1] P06 ok   47.26s policy_agent  'The maximum duration allowed for completing a B.Tech. programme is 14 registered semesters'
+[F_qwen3-8b_multi-transfer run 1] P07 ok   44.26s policy_agent  'A B- grade carries 7 grade points. [Source: Academic Regulations (UG & PG) 2019, p. 8]'
+[F_qwen3-8b_multi-transfer run 1] P08 ok   56.39s policy_agent  'The duration of the Major examination for a regular course is 120 minutes. [Source: Academ'
+[F_qwen3-8b_multi-transfer run 1] P09 ok   56.52s policy_agent  'A GEN category B.Tech. student must earn a minimum of 18 credits by the end of the second '
+[F_qwen3-8b_multi-transfer run 1] P10 ok   61.81s policy_agent  "An 'I' grade is temporarily awarded to a student on their request to denote incomplete per"
+[F_qwen3-8b_multi-transfer run 1] P11 BAD 125.03s policy_agent  'If a student is absent from all academic activities for four or more weeks (not necessaril'
+[F_qwen3-8b_multi-transfer run 1] P12 ok   69.75s policy_agent  'The Programme Elective (PE) credits required for a regular B.Tech. degree are 18. [Source:'
+[F_qwen3-8b_multi-transfer run 1] P13 BAD    8.7s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] S01 ok   26.66s schedule_agent  'The course "Autonomous Systems" is scheduled in slot C. The lecture timings are Monday 10:'
+[F_qwen3-8b_multi-transfer run 1] S02 ok   44.62s schedule_agent  'The Humanities department has floated 4 elective courses at the 400 level this semester. T'
+[F_qwen3-8b_multi-transfer run 1] S03 ok   32.27s schedule_agent  'The course "CSL7620 Machine Learning" is taught by Dr. Kavya Rao. This information is sour'
+[F_qwen3-8b_multi-transfer run 1] S04 ok   28.54s schedule_agent  'The classes for slot H are held on Monday and Thursday from 15:00 to 16:25. \n\nCitation: [S'
+[F_qwen3-8b_multi-transfer run 1] S05 ok   35.11s schedule_agent  'The L-T-P structure of the Deep Learning course is **3-0-2**. This means it has 3 lecture '
+[F_qwen3-8b_multi-transfer run 1] S06 ok   35.58s schedule_agent  'The lab slot for CSL2010 is L1. The lab timings are Monday 14:00-16:55. \n\nCitation: [Sourc'
+[F_qwen3-8b_multi-transfer run 1] S07 ok   34.99s schedule_agent  'This semester, the following open electives are being offered:\n\n1. **MAL4010 Optimization '
+[F_qwen3-8b_multi-transfer run 1] E01 BAD  11.33s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] E02 ok   24.21s email_agent  'The email ID of the instructor for the course "Natural Language Understanding" (course cod'
+[F_qwen3-8b_multi-transfer run 1] E03 BAD  13.41s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] E04 BAD   5.43s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O01 ok    7.32s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O02 ok    7.05s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O03 ok   11.91s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O04 ok    6.51s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O05 ok     6.9s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+[F_qwen3-8b_multi-transfer run 1] O06 ok    6.28s None  "I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic prog"
+{
+  "accuracy_in_scope": 0.708,
+  "overall_accuracy": 0.767,
+  "citation_expected_source": 0.889,
+  "citation_valid": 1.0,
+  "retrieval_hit": 0.833,
+  "correct_refusal_oos": 1.0,
+  "false_refusal_in_scope": 0.25,
+  "refusals_logged": 1.0,
+  "routing_accuracy": 0.833,
+  "errors": 0,
+  "mean_latency_s": 98.24
+}
+accuracy by category: {'email': 0.25, 'out_of_scope': 1.0, 'policy': 0.692, 'schedule': 1.0}
+# Evaluation summary
+
+| Configuration | Model | Mode | Think | Runs | Accuracy (in-scope) | Correct citation | Citations genuine | Retrieval/tool hit | Correct refusal (OOS) | False refusal | Refusals logged | Routing acc. | Latency (s) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A_qwen3-1.7b_multi | qwen3:1.7b | multi | policy | 3 | 76% | 88% | 100% | 88% | 100% | 11% | 100% | 96% | 11.39 |
+| B_qwen3-1.7b_single | qwen3:1.7b | single | policy | 3 | 18% | 68% | 39% | 46% | 100% | 61% | 100% | - | 5.21 |
+| C_qwen3-1.7b_multi_nothink | qwen3:1.7b | multi | none | 1 | 79% | 86% | 100% | 88% | 100% | 8% | 100% | 96% | 8.15 |
+| D_qwen3-8b_multi | qwen3:8b | multi | policy | 1 | 92% | 91% | 100% | 100% | 100% | 4% | 100% | 100% | 52.17 |
+| E_llama3.1-8b_multi | llama3.1:8b | multi | policy | 1 | 92% | 78% | 100% | 92% | 100% | 4% | 100% | 92% | 247.73 |
+| F_qwen3-8b_multi-transfer | qwen3:8b | multi-transfer | policy | 1 | 71% | 89% | 100% | 83% | 100% | 25% | 100% | 83% | 98.24 |
+
+## Accuracy by category
+
+| Configuration | email | out_of_scope | policy | schedule |
+|---|---|---|---|---|
+| A_qwen3-1.7b_multi | 100% | 100% | 77% | 62% |
+| B_qwen3-1.7b_single | 50% | 100% | 0% | 33% |
+| C_qwen3-1.7b_multi_nothink | 100% | 100% | 85% | 57% |
+| D_qwen3-8b_multi | 100% | 100% | 85% | 100% |
+| E_llama3.1-8b_multi | 75% | 100% | 92% | 100% |
+| F_qwen3-8b_multi-transfer | 25% | 100% | 69% | 100% |
+
+## Per-question correct runs
+
+| Question | A_qwen3-1.7b_multi | B_qwen3-1.7b_single | C_qwen3-1.7b_multi_nothink | D_qwen3-8b_multi | E_llama3.1-8b_multi | F_qwen3-8b_multi-transfer |
+|---|---|---|---|---|---|---|
+| E01 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 0/1 |
+| E02 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| E03 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 0/1 |
+| E04 | 3/3 | 0/3 | 1/1 | 1/1 | 0/1 | 0/1 |
+| O01 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| O02 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| O03 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| O04 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| O05 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| O06 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P01 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P02 | 3/3 | 0/3 | 0/1 | 1/1 | 1/1 | 0/1 |
+| P03 | 0/3 | 0/3 | 0/1 | 0/1 | 1/1 | 0/1 |
+| P04 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P05 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P06 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P07 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P08 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P09 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P10 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P11 | 0/3 | 0/3 | 1/1 | 0/1 | 1/1 | 0/1 |
+| P12 | 1/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| P13 | 2/3 | 0/3 | 1/1 | 1/1 | 0/1 | 0/1 |
+| S01 | 3/3 | 0/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| S02 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| S03 | 3/3 | 1/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| S04 | 3/3 | 3/3 | 1/1 | 1/1 | 1/1 | 1/1 |
+| S05 | 1/3 | 0/3 | 0/1 | 1/1 | 1/1 | 1/1 |
+| S06 | 0/3 | 0/3 | 0/1 | 1/1 | 1/1 | 1/1 |
+| S07 | 0/3 | 0/3 | 0/1 | 1/1 | 1/1 | 1/1 |
+
+## Questions whose answers changed across runs
+
+### A_qwen3-1.7b_multi
+- **P01** What is the attendance requirement to sit in the Major exam? - correct in 3/3 runs, min. pairwise answer similarity 0.286
+- **P02** How many Open Elective credits do I need to earn in order to get a B.Tech. Degree? - correct in 3/3 runs, min. pairwise answer similarity 0.389
+- **P03** What is the minimum CGPA required to opt for an Independent Study course? - correct in 0/3 runs, min. pairwise answer similarity 0.486
+- **P04** For how many days can a student be granted short leave on medical grounds during a semester? - correct in 3/3 runs, min. pairwise answer similarity 0.463
+- **P05** What happens if a student is absent for four or more weeks in a semester? - correct in 3/3 runs, min. pairwise answer similarity 0.34
+- **P11** What happens if a student remains absent from a class without sanctioned leave for more than two weeks? - correct in 0/3 runs, min. pairwise answer similarity 0.174
+- **P12** How many Programme Elective credits are required for a regular B.Tech. degree? - correct in 1/3 runs, min. pairwise answer similarity 0.168
+- **P13** To whom should a B.Tech. student address an application for leave of absence? - correct in 2/3 runs, min. pairwise answer similarity 0.457
+- **S05** What is the L-T-P structure of the Deep Learning course? - correct in 1/3 runs, min. pairwise answer similarity 0.069
+
+### B_qwen3-1.7b_single
+- **P11** What happens if a student remains absent from a class without sanctioned leave for more than two weeks? - correct in 0/3 runs, min. pairwise answer similarity 0.304
+- **S03** Who teaches CSL7620 Machine Learning this semester? - correct in 1/3 runs, min. pairwise answer similarity 0.696
+

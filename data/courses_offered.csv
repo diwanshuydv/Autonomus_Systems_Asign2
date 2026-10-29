@@ -1,0 +1,31 @@
+course_code,course_title,department,level,credits,ltp,category,slot,lab_slot,instructor
+CSL7570,Autonomous Systems,CS,700,3,3-0-0,Programme Elective,C,,Dr. Arjun Mehta
+CSL7620,Machine Learning,CS,700,3,3-0-0,Programme Core,B,,Dr. Kavya Rao
+CSL7640,Natural Language Understanding,CS,700,3,3-0-0,Programme Elective,E,,Dr. Nikhil Joshi
+CSL7590,Deep Learning,CS,700,3,3-0-2,Programme Elective,D,L3,Dr. Kavya Rao
+CSL3010,Design and Analysis of Algorithms,CS,300,4,3-1-0,Programme Core,A,T1,Dr. Rahul Bansal
+CSL3020,Computer Networks,CS,300,3,3-0-0,Programme Core,F,,Dr. Sneha Iyer
+CSL4030,Data Engineering,CS,400,3,3-0-0,Programme Elective,G,,Dr. Nikhil Joshi
+CSL2010,Data Structures and Algorithms,CS,200,4,3-0-2,Programme Core,C,L1,Dr. Rahul Bansal
+CSP3030,Software Engineering Lab,CS,300,1,0-0-2,Programme Core,,L2,Dr. Sneha Iyer
+EEL3010,Control Systems,EE,300,3,3-0-0,Programme Core,D,,Dr. Pooja Saxena
+EEL7110,Robot Perception,EE,700,3,3-0-0,Programme Elective,H,,Dr. Pooja Saxena
+EEL2020,Signals and Systems,EE,200,4,3-1-0,Programme Core,B,T2,Dr. Vikram Chauhan
+MEL4020,Robotics,ME,400,3,3-0-2,Programme Elective,E,L4,Dr. Manish Gupta
+MEL2010,Engineering Mechanics,ME,200,3,2-1-0,Institute Core,A,,Dr. Manish Gupta
+MAL1010,Linear Algebra and Calculus,MA,100,4,3-1-0,Institute Core,B,T1,Dr. Anjali Kapoor
+MAL4010,Optimization Methods,MA,400,3,3-0-0,Open Elective,J,,Dr. Anjali Kapoor
+PHL1020,Physics of Waves,PH,100,4,3-1-0,Institute Core,F,T2,Dr. Suresh Nair
+CYL1010,Chemistry for Engineers,CY,100,3,3-0-0,Institute Core,G,,Dr. Meera Pillai
+HSL2010,Introduction to Economics,HS,200,3,3-0-0,Institute Core,H,,Dr. Ritu Sharma
+HSL3020,Ethics and Society,HS,300,3,3-0-0,HSS Elective,J,,Dr. Aditya Verma
+HSL4010,Philosophy of Technology,HS,400,3,3-0-0,HSS Elective,K,,Dr. Aditya Verma
+HSL4020,Development Economics,HS,400,3,3-0-0,HSS Elective,H,,Dr. Ritu Sharma
+HSL4030,Cognitive Psychology,HS,400,3,3-0-0,HSS Elective,J,,Dr. Farah Khan
+HSL4040,Indian Knowledge Systems,HS,400,3,3-0-0,HSS Elective,K,,Dr. Farah Khan
+HSL7050,Research Methods in Social Sciences,HS,700,3,3-0-0,Programme Elective,G,,Dr. Ritu Sharma
+HSN1010,Language and Communication,HS,100,1,1-0-0,Non-Graded Core,K,,Dr. Farah Khan
+CIL3010,Structural Analysis,CI,300,3,3-0-0,Programme Core,C,,Dr. Harish Yadav
+BBL4010,Bioinformatics,BB,400,3,3-0-0,Open Elective,F,,Dr. Leena Thomas
+AVL7010,Unmanned Aerial Systems,AV,700,3,3-0-0,Programme Elective,K,,Dr. Arjun Mehta
+IOL7020,IoT Systems Design,IO,700,3,2-0-2,Programme Elective,H,L2,Dr. Vikram Chauhan

@@ -1,0 +1,360 @@
+{
+  "tag": "A3_qwen3-1.7b_multi_v3_sources",
+  "mode": "multi",
+  "model": "ollama_chat/qwen3:1.7b",
+  "think": "policy",
+  "temperature": 0.2,
+  "runs": 3,
+  "questions": 30,
+  "metrics": {
+    "accuracy_in_scope": 0.931,
+    "overall_accuracy": 0.944,
+    "citation_expected_source": 0.855,
+    "citation_valid": 1.0,
+    "retrieval_hit": 0.958,
+    "correct_refusal_oos": 1.0,
+    "false_refusal_in_scope": 0.042,
+    "refusals_logged": 1.0,
+    "routing_accuracy": 1.0,
+    "errors": 0,
+    "mean_latency_s": 9.37
+  },
+  "accuracy_by_category": {
+    "email": 1.0,
+    "out_of_scope": 1.0,
+    "policy": 0.974,
+    "schedule": 0.81
+  },
+  "per_question": {
+    "E01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "E04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "email_agent"
+      ]
+    },
+    "O01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O05": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "None"
+      ]
+    },
+    "O06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.881,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P02": {
+      "correct_runs": 2,
+      "runs": 3,
+      "mean_answer_similarity": 0.322,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.592,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.865,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P05": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.733,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.761,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P07": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.638,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P08": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P09": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.983,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P10": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.401,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P11": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.362,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P12": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.537,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "P13": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.795,
+      "routes": [
+        "policy_agent"
+      ]
+    },
+    "S01": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.457,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S02": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.998,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S03": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.867,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S04": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 0.902,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S05": {
+      "correct_runs": 2,
+      "runs": 3,
+      "mean_answer_similarity": 0.574,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S06": {
+      "correct_runs": 3,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    },
+    "S07": {
+      "correct_runs": 0,
+      "runs": 3,
+      "mean_answer_similarity": 1.0,
+      "routes": [
+        "schedule_agent"
+      ]
+    }
+  },
+  "unstable_questions": [
+    {
+      "id": "P02",
+      "question": "How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?",
+      "correct_runs": "2/3",
+      "min_answer_similarity": 0.242,
+      "answers": [
+        "The minimum number of Open Elective credits required to earn a B.Tech. Degree is 4, which can be added to the 80 credits earned by students with a CGPA of 6.0 or higher in the sixth semester. These 4 credits are part of the additional learning component and are subject to the total credit requiremen",
+        "The minimum number of Open Elective credits required for a B.Tech. Degree is **10 credits** for the Regular program [Source: Academic Regulations (UG & PG) 2019, p. 17]. This applies to B.Tech. Regular programs, while Dual Degree programs have 0 credits for Open Electives [Source: Academic Regulatio",
+        "For a B.Tech. Degree, the number of Open Elective credits required depends on the program type:  \n- **B.Tech. Regular**: 10 credits (as per [Source: Academic Regulations (UG & PG) 2019, p. 17]).  \n- **B.Tech. + M.Tech. Dual Degree**: 0 credits (as per [Source: Academic Regulations (UG & PG) 2019, p."
+      ]
+    },
+    {
+      "id": "P03",
+      "question": "What is the minimum CGPA required to opt for an Independent Study course?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.504,
+      "answers": [
+        "The minimum CGPA required to opt for an Independent Study course is **6.0 or above**, as stated in the PG Rules and Regulations (students enrolled from July 2022) [Source: PG Rules and Regulations (students enrolled from July 2022), p. 7]. Additionally, such courses must be recommended by the Superv",
+        "The minimum CGPA required to opt for an Independent Study course is **6.0** or higher, as stated in the PG Rules and Regulations (students enrolled from July 2022) [Source: PG Rules and Regulations (students enrolled from July 2022), p. 7].",
+        "The minimum CGPA required to opt for an Independent Study course is **6.0 or above**, as stated in the PG Rules and Regulations (students enrolled from July 2022) [Source: PG Rules and Regulations (students enrolled from July 2022), p. 7]. The recommendation for such courses must come from the Super"
+      ]
+    },
+    {
+      "id": "P07",
+      "question": "How many grade points does a B- grade carry?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.521,
+      "answers": [
+        "The B- grade carries 7 grade points according to the academic regulations [Source: Academic Regulations (UG & PG) 2019, p. 8]. The scale is outlined in Table 5.1, where B- corresponds to 7 points on a 10-point scale. The PG Rules and Regulations (2023) confirm this classification [Source: PG Rules a",
+        "The B- grade carries 7 grade points according to the academic regulations [Source: PG Rules and Regulations (students enrolled from July 2022), p. 12].",
+        "The B- grade carries 7 grade points according to the academic regulations [Source: Academic Regulations (UG & PG) 2019, p. 8]."
+      ]
+    },
+    {
+      "id": "P10",
+      "question": "When is an 'I' grade awarded to a student?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.157,
+      "answers": [
+        "An 'I' grade is awarded to a student on their request to denote incomplete performance in a course, typically due to special circumstances like medical reasons, provided the instructor approves. The request must be made by the earliest but not later than the last day of major tests, and the 'I' grad",
+        "An 'I' grade is awarded to a student on their request to denote incomplete performance in a course, provided the instructor approves. Requests must be made by the last day of major tests, and the grade is converted to a regular grade once all evaluation requirements are completed. [Source: Academic ",
+        "An 'I' grade is awarded to a student on their request, typically within the last week of the semester, to denote incomplete performance in a course, provided the instructor approves. The grade is converted to a regular grade after all evaluation requirements are completed. This process is outlined i"
+      ]
+    },
+    {
+      "id": "P11",
+      "question": "What happens if a student remains absent from a class without sanctioned leave for more than two weeks?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.255,
+      "answers": [
+        "If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend the student's de-registration from the course [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. If a student is absent from all academic activities ",
+        "If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend the de-registration of the student from the course [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. This applies to any course where attendance is ",
+        "The instructor may recommend the de-registration of the student from the course if they remain absent without sanctioned leave for more than two weeks. This is specified in the recent attendance policy amendment [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1]. \n\nNote: The 2"
+      ]
+    },
+    {
+      "id": "P12",
+      "question": "How many Programme Elective credits are required for a regular B.Tech. degree?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.424,
+      "answers": [
+        "The Programme Elective credits required for a regular B.Tech. degree are **18 credits** for both B.Tech. Regular and B.Tech. with Specialization programs. This is explicitly stated in the table under \"Programme Electives (PE)\" in the Academic Regulations (UG & PG) 2019 [Source: Academic Regulations ",
+        "The required Programme Elective credits for a regular B.Tech. degree are 18 credits per semester. This is specified in the table under \"Programme Electives (PE)\" for B.Tech. Regular and B.Tech. with Specialization [Source: Academic Regulations (UG & PG) 2019, p. 19]. \n\nNote: The passage explicitly s",
+        "The Programme Elective credits required for a regular B.Tech. degree are **18 credits** for both B.Tech. Regular and B.Tech. with Specialization. This is explicitly stated in the table under \"Programme Electives (PE)\" in [Source: Academic Regulations (UG & PG) 2019, p. 19]. \n\n**Citation:** [Source: "
+      ]
+    },
+    {
+      "id": "S01",
+      "question": "What is the slot for the course Autonomous Systems?",
+      "correct_runs": "3/3",
+      "min_answer_similarity": 0.185,
+      "answers": [
+        "The course \"Autonomous Systems\" is offered in slot **C**. The slot timings are:\n- Monday 10:00-10:55 (Lecture)\n- Tuesday 11:00-11:55 (Lecture)\n- Thursday 10:00-10:55 (Lecture)\n\nCitation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]",
+        "The course \"Autonomous Systems\" is scheduled in slot **C**. The slot timings are:\n- Monday 10:00-10:55 (Lecture)\n- Tuesday 11:00-11:55 (Lecture)\n- Thursday 10:00-10:55 (Lecture)\n\nCitation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]",
+        "The course \"Autonomous Systems\" is scheduled in slot **C**. The slot timings are:\n- Monday 10:00-10:55 (Lecture)\n- Tuesday 11:00-11:55 (Lecture)\n- Thursday 10:00-10:55 (Lecture)\n\nCitation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]"
+      ]
+    },
+    {
+      "id": "S05",
+      "question": "What is the L-T-P structure of the Deep Learning course?",
+      "correct_runs": "2/3",
+      "min_answer_similarity": 0.455,
+      "answers": [
+        "The L-T-P structure of the Deep Learning course is 3-0-2. The course is offered in Slot D, and it is a Programme Elective. The instructor is Dr. Kavya Rao. \n\nCitation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]",
+        "The L-T-P structure of the Deep Learning course is 3-0-2. This course is a Programme Elective offered in the 700 level. The course is scheduled in slot D, with lectures on Tuesday, Thursday, and Friday at 08:00-08:55 and 10:00-10:55 respectively, and a lab session on Wednesday at 14:00-16:55. The in",
+        "The L-T-P structure for the course \"Autonomous Systems\" (CSL7570) is 3-0-0. \n\nCitation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]"
+      ]
+    }
+  ]
+}

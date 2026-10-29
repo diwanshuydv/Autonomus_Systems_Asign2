@@ -1,0 +1,17 @@
+name,department,designation,email,office
+Dr. Arjun Mehta,CS,Associate Professor,arjun.mehta@dummy.iitj.ac.in,CSE Block Room 204
+Dr. Kavya Rao,CS,Assistant Professor,kavya.rao@dummy.iitj.ac.in,CSE Block Room 211
+Dr. Nikhil Joshi,CS,Assistant Professor,nikhil.joshi@dummy.iitj.ac.in,CSE Block Room 215
+Dr. Rahul Bansal,CS,Professor,rahul.bansal@dummy.iitj.ac.in,CSE Block Room 101
+Dr. Sneha Iyer,CS,Associate Professor,sneha.iyer@dummy.iitj.ac.in,CSE Block Room 207
+Dr. Pooja Saxena,EE,Associate Professor,pooja.saxena@dummy.iitj.ac.in,EE Block Room 118
+Dr. Vikram Chauhan,EE,Assistant Professor,vikram.chauhan@dummy.iitj.ac.in,EE Block Room 122
+Dr. Manish Gupta,ME,Professor,manish.gupta@dummy.iitj.ac.in,ME Block Room 009
+Dr. Anjali Kapoor,MA,Associate Professor,anjali.kapoor@dummy.iitj.ac.in,Lecture Hall Complex Room 310
+Dr. Suresh Nair,PH,Professor,suresh.nair@dummy.iitj.ac.in,Physics Block Room 102
+Dr. Meera Pillai,CY,Assistant Professor,meera.pillai@dummy.iitj.ac.in,Chemistry Block Room 017
+Dr. Ritu Sharma,HS,Associate Professor,ritu.sharma@dummy.iitj.ac.in,HSS Block Room 005
+Dr. Aditya Verma,HS,Assistant Professor,aditya.verma@dummy.iitj.ac.in,HSS Block Room 011
+Dr. Farah Khan,HS,Assistant Professor,farah.khan@dummy.iitj.ac.in,HSS Block Room 014
+Dr. Harish Yadav,CI,Professor,harish.yadav@dummy.iitj.ac.in,Civil Block Room 106
+Dr. Leena Thomas,BB,Associate Professor,leena.thomas@dummy.iitj.ac.in,Bio Block Room 203

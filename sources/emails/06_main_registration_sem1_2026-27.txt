@@ -1,0 +1,73 @@
+Title: Main Registration for Semester-I, AY 2026-27
+Category: Course Registration
+Source: IIT Jodhpur institute email (registration@iitj.ac.in)
+Date: 20 Jul 2026 (reminder 23 Jul 2026)
+Recipient: All Students (allstudents@iitj.ac.in)
+Attachments (not included): Circular_2283.pdf (Late Registration Fine); Circular_55 No. IITJ/OAA/Circular/2024-25/5587 – Guidelines for submission of thesis and subsequent registration to the next semester for PhD students
+----------------------------------------------------------------
+
+[Message 1 — Mon 20 Jul 2026, 11:00 AM]
+
+Dear Students (Except Executive, Diploma & Certificate Programs),
+
+As per the Academic Calendar AY 2026-27, Semester-I, the ERP portal has been activated for the online course registration till 23th July 2026, 05:30 PM. If the student does not register by the due date of registration as per the academic calendar, She/he can register by paying the fine of Rs. 1500/- before the date of late registration (by the last date of add/drop). The last date for add/drop courses is 07th Aug 2026. (Copy Attached).
+
+Important Notes:
+Please note that Fee payment is mandatory. Course registration will not be allowed if the student does not pay the fee.
+Course Audit Process:- Register the course then contact the course instructor. They have access to raise an Audit request for a course on the ERP Portal. The request will further go to the Faculty Advisor and Dean of Academic Affairs.
+
+Important Links:-
+1. Login to "https://erp.iitj.ac.in" and go to "Academic-> Subjects-> Subject-Registration." (Please re login to the ERP portal)
+2. The list of all courses being offered with the finalized slot of this semester is here: CLICK HERE
+3. The list of timetable committee members can be found here. CLICK HERE
+4. The list of minor/specialization coordinators can be found here. CLICK HERE
+5. Slot system for Semester-I, AY 2026-27 (B.Tech 1st year). CLICK HERE
+6. Slot system for Semester-I, AY 2026-27 (2nd Year onwards). CLICK HERE
+
+Important Points:-
+- Regular Students are not allowed to Register in Executive Slots and Executive Students are not allowed to Register in Regular Slots.
+- Regular and Executive students can register for courses floated in hybrid slots (Slots Like O, P, Q, R, S).
+- Courses are to be registered slot-wise, and students will be allowed to register for only one course per slot.
+- Students with backlogs are advised to register for the Basic Courses and complete them before registering for the Department Compulsory Courses. In case you have any confusion, please consult the Faculty Advisor.
+- The students must register for the appropriate non-grade courses. It is mandatory to complete the non-graded courses for the degree requirements.
+- For any course-related query (course type, credit requirements, etc.), kindly discuss with your faculty advisor. Faculty advisors also have the option to register courses, but only within the deadline.
+
+7. The following course level will be applicable to all UG and PG students:
+
+| S.N. | Level | Category | Credit Requirements |
+|---|---|---|---|
+| 1 | 100 | Courses for B.Tech. Programmes | B.Tech. (Cr>=0) |
+| 2 | 200 | Courses for B.Tech. Programmes | B.Tech. (Cr>=0) |
+| 3 | 300 | Courses for B.Tech. Programmes | B.Tech. (Cr>=38) |
+| 4 | 400 | Courses for B.Tech. Programmes | B.Tech. (Cr>=75) |
+| 5 | 500 | Preparatory Courses of M.Sc. and M.Tech. Programmes (NOT open to B.Tech. and B.Tech.+M.Tech. Dual Degree) | M.Tech. (Cr=0); M.Sc. (Cr=0) |
+| 6 | 600 | Courses for M.Sc. programmes | B.Tech. (Cr>=75); M.Sc. (Cr>=0); M.Tech. (Cr>=0) |
+| 7 | 700 | Courses for M.Tech. programmes; Advanced courses for M.Sc. | B.Tech. (Cr>=85) with CGPA >=6*; M.Sc. (Cr>=30); M.Tech. (Cr>=0); Ph.D. (Cr>=0) |
+| 8 | 800 | Advanced courses for M.Tech. and Ph.D. programmes; an 800-level course should have a 700-level course as a prerequisite | M.Tech. (Cr>=14); Ph.D. (Cr>=0) |
+
+Note: The limit of credits to check course level has been updated as follows:
+"Limit of credits to check course level = earned credits by the student till the last semester + currently registered credits in the current semester."
+a) This assumes that the student will pass all the courses. If there is a shortfall, the students will be dropped from the courses during the main registration.
+b) Such students will be permitted to register for other courses during the main registration.
+
+8. If you find any discrepancy in course type or course category, kindly contact your departmental timetable committee member. CLICK HERE
+9. For Ph.D. Students, kindly refer to the attached Circular_55 No. IITJ/OAA/Circular/2024-25/5587 - "Guidelines for submission of thesis and subsequent registration to the next semester for PhD students" for Registration.
+10. For Institute Humanities electives, the upper cap on the number of students is 80. (Allocation will be based on the CGPA earned till the last semester)
+11. For Minor in Entrepreneurship and Department Specialization in Engineering Innovation, a scrutiny committee will be formed for selecting the students. The Upper Cap of Students for Minor in Management courses is 40.
+12. For pre-registration, there will be no upper cap on elective courses; however, an upper cap will be implemented during main-registration. First preference will be given to students enrolled in the course in a category other than open elective.
+
+For any technical issues, kindly write to ERP IIT Jodhpur (erp@iitj.ac.in) and for any other issues, kindly write to Registration IIT Jodhpur (registration@iitj.ac.in).
+Note- Please prefer reply instead of reply all.
+
+With Regards,
+Gaurav Nigam, Assistant Registrar, Office of Academic Affairs, IIT Jodhpur
+Phone: 0291 280 1132
+
+[Message 2 — Thu 23 Jul 2026, 12:30 PM]
+
+Dear Students (Except Executive, Diploma & Certificate Programs),
+This is a polite reminder to complete your Main Registration for Semester-I, AY 2026–27. Please note that the deadline for completing the registration is today at 05:30 PM. You are requested to ensure that your course registration is completed within the stipulated deadline.
+Note: Completion of the Main Registration is mandatory. No requests related to the Main Registration will be entertained after the prescribed deadline.
+
+With Regards,
+Ajay, Registration Cell, Office of Academic Affairs, IIT Jodhpur

@@ -1,0 +1,12 @@
+{"timestamp": "2026-10-28T13:37:37", "question": "How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:38:32", "question": "What is the minimum CGPA required to opt for an Independent Study course?", "reason": "refused by policy_agent (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:47:49", "question": "To whom should a B.Tech. student address an application for leave of absence?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:51:58", "question": "Write an email to the course instructor of CSL7570 that I need leave for 2 days", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:52:36", "question": "I missed the Minor 1 exam of CSL3010 because of fever. Draft an email to the instructor asking for a makeup exam.", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:52:41", "question": "Draft a sick leave email to the instructor of Control Systems for 3 days, I have viral fever.", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:52:48", "question": "What are the available dining options on the campus?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:52:56", "question": "What is the best way to reach the campus from Jodhpur city center?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:53:00", "question": "What is the hostel fee for B.Tech. students this year?", "reason": "out of scope", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:53:14", "question": "Who won the IPL in 2024?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:53:21", "question": "Which companies visited IIT Jodhpur for placements last year?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}
+{"timestamp": "2026-10-28T13:53:27", "question": "Is the central library open on Sundays?", "reason": "refused by helpdesk_orchestrator (auto-logged)", "status": "pending_human_review"}

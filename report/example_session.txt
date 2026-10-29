@@ -1,0 +1,84 @@
+Q: What is the attendance requirement to sit in the Major exam?
+  agents: router_agent -> policy_agent
+  tool:   policy_agent.search_academic_documents({"query": "What is the attendance requirement to sit in the Major exam?"})
+  time:   12.05s
+
+Helpdesk: The attendance requirement for sitting in the Major exam is that students must have full attendance in each course unless they take a leave of absence for valid reasons. If attendance falls below 75%, students are still allowed to appear for exams but must score at least a C grade to pass the course, with an F grade if marks are below the C cut-off [Source: Circular on Amendment in Attendance Policy (08 July 2024), p. 1].
+
+------
+Q: What is the slot for the course Autonomous Systems?
+  agents: router_agent -> schedule_agent
+  tool:   schedule_agent.get_course_info({"course": "Autonomous Systems"})
+  time:   5.88s
+
+Helpdesk: The course "Autonomous Systems" is scheduled in slot **C**. The slot timings are:
+- Monday 10:00-10:55 (Lecture)
+- Tuesday 11:00-11:55 (Lecture)
+- Thursday 10:00-10:55 (Lecture)
+
+Citation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]
+
+------
+Q: How many 400 level electives have been floated by the Humanities department in this semester?
+  agents: router_agent -> schedule_agent
+  tool:   schedule_agent.list_courses({"category": "elective", "department": "Humanities", "level": 400})
+  time:   6.67s
+
+Helpdesk: There are 4 400 level electives offered by the Humanities department in this semester. The courses are: HSL4010 Philosophy of Technology (HSS Elective, 3 credits, slot K), HSL4020 Development Economics (HSS Elective, 3 credits, slot H), HSL4030 Cognitive Psychology (HSS Elective, 3 credits, slot J), and HSL4040 Indian Knowledge Systems (HSS Elective, 3 credits, slot K). 
+
+Citation: [Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)]
+
+------
+Q: How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?
+  agents: router_agent -> policy_agent
+  tool:   policy_agent.search_academic_documents({"query": "How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?"})
+  time:   16.39s
+
+Helpdesk: The minimum number of Open Elective credits required for a B.Tech. Degree is **10 credits** for B.Tech. Regular programs. For the B.Tech. + M.Tech. Dual Degree, Open Elective credits are **0** as specified in the relevant passage [Source: Academic Regulations (UG & PG) 2019, p. 17]. 
+
+Note: The 2024 passage [Source: Academic Regulations (UG & PG) 2019, p. 16] mentions different requirements for Minor/Interdisciplinary Specialization, but these are specific to that area and not applicable to the general B.Tech. Degree. The most recent document (2019) takes precedence over older regulations. 
+
+[Citation: [Source: Academic Regulations (UG & PG) 2019, p. 17]]
+
+------
+Q: Write an email to the course instructor of CSL7570 that I need leave for 2 days
+  agents: router_agent -> email_agent
+  tool:   email_agent.draft_email({"exam": " ", "course": "CSL7570", "request_type": "leave", "reason": " ", "num_days": 2, "dates": " "})
+  time:   6.41s
+
+Helpdesk: Here is a draft email for you to review. It has NOT been sent.
+
+To: arjun.mehta@dummy.iitj.ac.in
+Subject: Request for Leave of Absence - CSL7570
+
+Dear Dr. Arjun Mehta,
+
+I am writing to inform you that I will not be able to attend the Autonomous Systems (CSL7570) classes for the next 2 days due to [state your reason]. I kindly request you to grant me leave for this period. I will make sure to cover the material I miss and complete any pending work.
+
+Thank you for your consideration.
+
+Yours sincerely,
+[Your Name]
+Roll No.: [Your Roll Number]
+
+(Draft saved at drafts/20261028_190418_CSL7570_leave.txt)
+
+Note: As per the Academic Regulations 2019 (Sec. 15), a leave application should be addressed to the Convener DUGC with a medical certificate if applicable; short leave is limited to 10 days on medical grounds and 5 days otherwise. [Source: Academic Regulations (UG & PG) 2019, p. 21]
+
+[Source: Course Timetable, Semester I, AY 2026-27 (courses_offered.csv)] [Source: Faculty Directory (faculty_directory.csv)]
+
+------
+Q: What are the available dining options on the campus?
+  agents: router_agent -> helpdesk_orchestrator
+  time:   1.56s   [logged for human review]
+
+Helpdesk: I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic programmes, courses, rules and regulations, timetables and instructor emails. I have logged your question so that a human from the academic office can respond.
+
+------
+Q: What is the best way to reach the campus from Jodhpur city center?
+  agents: router_agent -> helpdesk_orchestrator
+  time:   1.11s   [logged for human review]
+
+Helpdesk: I'm sorry, I don't know the answer to that. I can only help with IIT Jodhpur academic programmes, courses, rules and regulations, timetables and instructor emails. I have logged your question so that a human from the academic office can respond.
+
+------
